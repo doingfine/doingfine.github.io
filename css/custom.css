@@ -10,3 +10,9 @@ Version: 1.0
 */
 
 /* Drop your custom css here! */
+
+#logo a {
+  font-size: 72px;
+  font-family: 'Pacifico', cursive;
+  color: white;
+}
