@@ -1055,7 +1055,7 @@ ul.os li:last-child {
 /* 8) DOWNLOAD APP */
 
 .download-app {
-	background: url(../img/phone-04.png);
+	/*background: url(../img/phone-04.png);*/
 	background-position: center bottom;
 }
 
