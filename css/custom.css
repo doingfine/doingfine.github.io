@@ -17,6 +17,16 @@ Version: 1.0
   color: white;
 }
 
+#logo-small {
+  opacity: 0.75;
+}
+
+#logo-small a {
+  font-size: 32px;
+  font-family: 'Pacifico', cursive;
+  color: #00C3C6;
+}
+
 .big-text h2 {
   color: white;
 }
