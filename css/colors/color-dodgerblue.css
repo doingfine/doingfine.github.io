@@ -3,15 +3,11 @@ a {
 }
 
 .btn-primary:hover, .btn-primary:active, .btn-primary.active, .btn-primary:focus {
-	background: #187dde;
+	background: #187ee1;
 }
 
 .btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active, .open .dropdown-toggle.btn-default {
 	background: #1E90FF;
-}
-
-.solid-bg-color {
-	background-color: #1E90FF;
 }
 
 hr.head-separator {
@@ -19,7 +15,7 @@ hr.head-separator {
 }
 
 .btn-primary {
-	background-color: #1a83ea;
+	background-color: #1E90FF;
 }
 
 ul.os li:hover i {

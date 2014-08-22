@@ -83,7 +83,6 @@
 @media (max-width: 640px) {
 
 	#home .big-text #text-rotator h2 {
-		font-size: 26px;
 		line-height: 38px;
 	}
     
@@ -159,10 +158,6 @@
 
 	.offsetBottomL { padding-bottom: 20% }
 	.offsetTopL { padding-top: 20% }
-
-	.style-selector {
-		top: 80px;
-	}
 
 	ul.os li {
 		margin-right: 20px;

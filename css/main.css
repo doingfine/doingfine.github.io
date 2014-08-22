@@ -224,8 +224,8 @@ h4 {
 
 .btn { margin-bottom: 10px }
 
-.solid-bg-color {
-	background-color: #50449a;
+.section-overlay {
+	background-color: rgba(0, 0, 0, 0.6);
 	position: absolute;
 	width: 100%;
 	height: 100%;
@@ -647,6 +647,9 @@ hr.head-separator {
 /* 2) HOME */
 
 #home {
+	background: url(../img/home-bg.jpg) center center;
+	background-position: center center;
+	background-size: cover;
 	position: relative;
 	height: auto;
 	overflow: hidden;
@@ -833,12 +836,12 @@ ul.os li:last-child {
 	border-color: #483D8B;
 }
 
-#tablet img {
+.phone img {
 	max-height: 400px;
 	margin: 0 auto;
 }
 
-#tablet {
+.phone {
 	z-index: -1;
 }
 
@@ -846,6 +849,8 @@ ul.os li:last-child {
 /* 4) VIDEO PRESENTATION */
 
 .video-pres {
+	background: url(../img/video-bg.jpg) center center;
+	background-size: cover;
 	position: relative;
 	width: 100%;
 	height: 480px;
@@ -961,6 +966,8 @@ ul.os li:last-child {
 /* 6) FEEDBACK */
 
 .feedback { 
+	background: url(../img/feedback-bg.jpg) center center;
+	background-size: cover;
 	position: relative;
 }
 
@@ -1221,6 +1228,8 @@ button.close {
 /* 11) CONTACT INFO */
 
 .contact-info {
+	background: url(../img/ci-bg.jpg) center center;
+	background-size: cover;
 	position: relative
 }
 

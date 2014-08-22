@@ -16,3 +16,11 @@ Version: 1.0
   font-family: 'Pacifico', cursive;
   color: white;
 }
+
+.big-text h2 {
+  color: white;
+}
+
+.section-overlay {
+  background-color: rgba(0, 169, 171, 0.5)
+}
