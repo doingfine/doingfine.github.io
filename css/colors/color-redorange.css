@@ -1,0 +1,57 @@
+a {
+	color: #FF5349;	
+}
+
+.btn-primary:hover, .btn-primary:active, .btn-primary.active, .btn-primary:focus {
+	background: #d13d34;
+}
+
+.btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active, .open .dropdown-toggle.btn-default {
+	background: #FF5349;
+}
+
+hr.head-separator {
+	border-color: #FF5349;
+}
+
+.btn-primary {
+	background-color: #e2443a;
+}
+
+ul.os li:hover i {
+	color: #fff;
+	opacity: 1;
+}
+
+#nav a:hover {
+	color: #FF5349;
+}
+
+.services h3 {
+	color: #FF5349;
+}
+
+.services .services-item:hover i {
+	color: #FF5349;
+	border-color: #FF5349;
+}
+
+.app-pres .feat-list li i {
+	background: #FF5349;
+}
+
+.features .feature-item i {
+	background: #FF5349;
+}
+
+.os-big li:hover {
+	background-color: #FF5349;
+}
+
+.ci-address a {
+	color: #fff;
+}
+
+.ci-mail a {
+	color: #fff;
+}

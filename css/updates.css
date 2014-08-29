@@ -1,0 +1,10 @@
+/* UPDATE 1.1 */
+
+.nivo-lightbox-content {
+    position: absolute;
+    z-index: 2;
+}
+
+.nivo-lightbox-title-wrap {
+    z-index: 1;
+}
