@@ -81,3 +81,8 @@ Version: 1.0
 .features .feature-item p {
   margin-left: 120px;
 }
+
+.sub-button {
+  display: block;
+  color: #3ff3ed;
+}
